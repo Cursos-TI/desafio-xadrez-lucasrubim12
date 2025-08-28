@@ -32,4 +32,9 @@ int main() {
     moverTorre();
     moverRainha();
     return 0;
+ 
+   printf("novo commit\n");
+
+
+
 }
